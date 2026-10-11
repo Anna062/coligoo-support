@@ -12,7 +12,7 @@ header { background: linear-gradient(180deg, var(--violet), var(--violet-dark));
 .brand { display: flex; align-items: center; gap: 14px; }
 .brand img { width: 56px; height: 56px; border-radius: 14px; }
 .brand span { font-size: 28px; font-weight: 800; }
-header p { margin: 14px 0 0; opacity: .9; }
+header p { margin: 14px 0 0; color: rgba(255, 255, 255, .9); }
 nav { margin-top: 18px; display: flex; gap: 16px; flex-wrap: wrap; }
 nav a { color: var(--gold); font-weight: 700; text-decoration: none; }
 main { padding: 24px 16px 48px; }
